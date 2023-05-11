@@ -191,7 +191,9 @@
     </div>
 
 
-    <div class=container-fluid>
+
+    <!-- Carousel -->
+    <div class="container-fluid px-lg-4 mt-4">
         <div class="swiper swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -213,7 +215,24 @@
 
         </div>
     </div>
+    <!-- 
+    Check availability form -->
 
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-24 shadow p-4 rounded">
+                <h5>Check Booking Availability</h5>
+                <form action="">
+
+                    <div class="row">
+                        <div class="col-lg-3">
+
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
     <!-- javascript link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
     <script>
